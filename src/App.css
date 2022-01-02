@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.FormControlLabel {
+  margin-top: 20px;
+}
+
+.checked {
+  text-decoration: line-through;
+  opacity: 60%;
+}
